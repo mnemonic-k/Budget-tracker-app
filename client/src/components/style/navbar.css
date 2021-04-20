@@ -1,0 +1,9 @@
+.Title{
+box-sizing: border-box;
+  width: 100%;
+  min-height:50px;
+  display: flex;
+  padding: 10px;
+  margin-bottom: 50px;
+  background-color: #8D6A6A;
+}

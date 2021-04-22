@@ -22,7 +22,7 @@ If you don’t want to register, you can just sign in by using the Test account.
 Test account:
 ```
 username: Test
-email: Test@gmail.com
+email: test@gmail.com
 password: 1111
 ```
 ## Additional information:

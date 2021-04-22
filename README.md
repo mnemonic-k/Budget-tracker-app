@@ -25,5 +25,7 @@ username: Test
 email: test@gmail.com
 password: 1111
 ```
+##Deploy 
+Link: [eliftech-budget-tracker](https://eliftech-budget-tracker.herokuapp.com/)
 ## Additional information:
 This app is created as a test task for ElifTech Academy

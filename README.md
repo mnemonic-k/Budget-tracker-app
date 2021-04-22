@@ -3,16 +3,16 @@ This app is created by using the MERN stack (MongoDB, ExpressJS, React, NodeJS).
 -------------------------------------------------------------------------------
 ## Features
 The budget tracker allows users:
-1)add their spendings,
-2) store them in a database,
-3) have access to them by date picker,
+- add their spendings,
+- store them in a database,
+- have access to them by date picker,
 Also, this app provides authentication and authorization for users by using JWT(JSON Web Token)
 ## Running
 Commands for run app:
 ```
 git clone https://github.com/Yarik-prog/Budget-tracker-app.git
 cd server
-npm init
+npm install
 npm start
 ```
 ## Using:

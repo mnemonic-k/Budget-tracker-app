@@ -24,7 +24,7 @@ Test account:
 ```
 username: Test
 email: Test@gmail.com
-password:1111
+password: 1111
 ```
 ## Additional information:
 This app is created as a test task for ElifTech Academy

@@ -8,7 +8,7 @@ const financeRoutes = require('./Routes/finance.route')
 const verifyJWT = require('./Routes/verifyJWT')
 const app = express()
 const PORT = process.env.PORT || 8080
-
+//const URI = "mongodb+srv://yarik:1290@cluster0.n9r79.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 mongoose.connect(process.env.URI,{useNewUrlParser:true, useCreateIndex:true, useUnifiedTopology:true})
 const connection = mongoose.connection
 connection.once('open',()=>{

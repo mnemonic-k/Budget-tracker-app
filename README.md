@@ -1,6 +1,5 @@
 # Budget-tracker-app
 This app is created by using the MERN stack (MongoDB, ExpressJS, React, NodeJS).
--------------------------------------------------------------------------------
 ## Features
 The budget tracker allows users:
 - add their spendings,

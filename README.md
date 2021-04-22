@@ -6,7 +6,7 @@ The budget tracker allows users:
 - add their spendings,
 - store them in a database,
 - have access to them by date picker,
--Also, this app provides authentication and authorization for users by using JWT(JSON Web Token)
+- Also, this app provides authentication and authorization for users by using JWT(JSON Web Token)
 ## Running
 Commands for run app:
 ```
